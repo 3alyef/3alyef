@@ -1,4 +1,4 @@
-# 💻 About Me ألف אלף: 
+# 💻 About Me Alef: 
 💻 Front End Developer<br>🔭 I'm looking for an internship<br>
 
 
