@@ -1,38 +1,24 @@
-<h1>About Me</h1>
+<h1>Hello! I'm Alef A. de Araujo ✋</h1>
 
-<p>Hey, my name is <strong>Alef</strong> and I started my studies in the front-end development area at the end of 2022, around July 2023 I had to pause my studies, - returning to them again in mid-December of the same year -, currently I am looking for a job in the <strong>front-end</strong> area.</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alefalvesaraujo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
-<p>I focus on <strong>javascript, typescript, next.js and tailwind-CSS</strong>.</p>
+[![alefalves4867 GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/alefalves4867/github-readme-stats#gh-light-mode-only)
 
-<h2>Socials:</h2>
 
-<a href="https://www.linkedin.com/in/alefalvesaraujo/"><img src="https://static-00.iconduck.com/assets.00/linkedin-original-icon-256x256-bckcotyp.png" width="28px" alt="LinkedIn Icon"/></a>
-<a href="#"><img src="https://qph.cf2.quoracdn.net/main-qimg-8cb862aef9efa87583d2a4b9236bd5ef" width="28px" alt="Instagram Icon"/></a>
 
-<h2>
+
+<h1>
   Tech Stack:
-</h2>
+</h1>
 
-<p>
-  <img src="https://cdn3.emoji.gg/emojis/7272-html.png" width="30px" alt="HTML5 Icon">
-  <img src="https://cdn3.emoji.gg/emojis/1164-css.png"  width="30px" alt="CSS3 Icon"/>
-  
-  <img src="https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png" width="30px" alt="JavaScript Icon"/>
-  <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" width="30px" alt="TypeScript Icon"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30px" alt="ReactJs Icon"/>
-  <img src="https://media.licdn.com/dms/image/C5622AQEaSzZNrNFgUQ/feedshare-shrink_800/0/1678383920919?e=2147483647&v=beta&t=skIEHMDr9qucS8R9k_6RwBP1f4HH1Y3WzeDu3CErvpg" width="30px" alt="NextJs Icon"/>
-  <img src="https://files.raycast.com/nwt9ncojkvwmjfkaada8upafvpnu" width="30px" alt="Tailwind-CSS Icon"/>
-</p>
+<div style="display:inline-block; background-color: white;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="HTML5 Icon">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  align="center" alt="CSS3 Icon"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" align="center" alt="JavaScript Icon"/> 
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" align="center" alt="TypeScript Icon"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" align="center" alt="ReactJs Icon"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" align="center" alt="Tailwind-CSS Icon"/>
+</div><br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alefalves4867&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alefalves4867&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alefalves4867&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alefalves4867&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=alefalves4867&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#### Knowledge is the key to progress
