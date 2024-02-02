@@ -6,6 +6,8 @@
 [![Alef GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=alefalves4867&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Alef GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=alefalves4867&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefalves4867&layout=donut-vertical)](https://github.com/alefalves4867/github-readme-stats)
+
 
 
 <h1>
