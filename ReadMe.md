@@ -1,28 +1,76 @@
-<h1>Hello! I'm Alef A. de Araujo ✋</h1>
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hey There!</h1></summary>
+</div>
 
+<!-- Presentation -->
+<p>
+  
+
+  Hi 👋, I`am Alef! A passionate web and mobile development student from Brazil.
+
+  <!--
+  - 🌱 I am currently studying systems analysis and development at Cruzeiro do Sul<img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  -->
+  - 🔭 I am looking for my first job opportunity. My dream is to one day be able to work in mobile and desktop development.
+ 
+</p>
+
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬 I am 18 years old, currently living in Brazil. I have fluency in English, - basic knowledge of Spanish, Hebrew and Arabic -, and have experience in JavaScript, TypeScript, ReactJs, NextJs and Tailwind CSS.
+
+
+  - ⚡ I like reading, whether it's a good book, as well as watching movies and playing games! I believe that our personal interests contribute to the emergence of new ideas, solving problems, and making the world better.
+</details>
+
+<!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alefalvesaraujo/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
-[![Alef GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=alefalves4867&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Alef GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=alefalves4867&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefalves4867&layout=donut-vertical)](https://github.com/alefalves4867/github-readme-stats)
+<!-- GithubStats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=alefalves4867&show_icons=true&theme=gotham)
+
+<!-- Portfolio 
+## Portfolio:
+- []()
+- []()
+- []()
+- []()
+-->
+<!-- GIF -->
+<div align="left">
+  
+</div>
+
+###
 
 
-
-<h1>
-  Tech Stack:
-</h1>
-
-<div style="display:inline-block;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="HTML5 Icon">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  align="center" alt="CSS3 Icon"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" align="center" alt="JavaScript Icon"/> 
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" align="center" alt="TypeScript Icon"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" align="center" alt="ReactJs Icon"/>
-</div><br/>
-
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" align="center" alt="Tailwind-CSS Icon"/>
-<br/>
-
-#### Knowledge is the key to progress
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Next Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="Tailwind CSS" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+    
+  </div>
+  
+  <!-- Skills: Libraries -->
+  <div style="flex-basis: 48%;">
+    <h3>Libraries</h3>
+    <img align="center" alt="ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  </div>
