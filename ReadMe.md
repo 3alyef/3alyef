@@ -21,7 +21,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 18 years old, currently living in Brazil. I have fluency in English, - basic knowledge of Spanish, Hebrew and Arabic -, and have experience in JavaScript, TypeScript, ReactJs, NextJs and Tailwind CSS.
+  - 💬 I am 18 years old, currently living in Brazil. I have relative fluency in English, - basic knowledge of Spanish, Hebrew and Arabic -, and have experience in JavaScript, TypeScript, Java, NodeJs, MySQL, ReactJs, NextJs and Tailwind CSS.
 
 
   - ⚡ I like reading, whether it's a good book, as well as watching movies and playing games! I believe that our personal interests contribute to the emergence of new ideas, solving problems, and making the world better.
